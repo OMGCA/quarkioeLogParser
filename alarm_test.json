@@ -1,0 +1,332 @@
+{
+    "alarms": [
+        {
+            "count": 1,
+            "creationTime": "2018-08-01T14:14:51.777+08:00",
+            "time": "2018-08-01T14:14:51.777+08:00",
+            "history": {
+                "auditRecords": [],
+                "self": "http://jksj.quarkioe.com/audit/auditRecords"
+            },
+            "id": "10605",
+            "self": "http://jksj.quarkioe.com/alarm/alarms/10605",
+            "severity": "MAJOR",
+            "source": {
+                "id": "10602",
+                "name": "18004508",
+                "self": "http://jksj.quarkioe.com/inventory/managedObjects/10602"
+            },
+            "status": "CLEARED",
+            "text": "No data received from device within required interval.",
+            "type": "c8y_UnavailabilityAlarm"
+        },
+        {
+            "count": 1,
+            "creationTime": "2018-08-02T09:16:23.991+08:00",
+            "time": "2018-08-02T09:16:23.991+08:00",
+            "history": {
+                "auditRecords": [],
+                "self": "http://jksj.quarkioe.com/audit/auditRecords"
+            },
+            "id": "71502",
+            "self": "http://jksj.quarkioe.com/alarm/alarms/71502",
+            "severity": "MAJOR",
+            "source": {
+                "id": "10602",
+                "name": "18004508",
+                "self": "http://jksj.quarkioe.com/inventory/managedObjects/10602"
+            },
+            "status": "CLEARED",
+            "text": "No data received from device within required interval.",
+            "type": "c8y_UnavailabilityAlarm"
+        },
+        {
+            "count": 1,
+            "creationTime": "2018-08-02T09:26:51.772+08:00",
+            "time": "2018-08-02T09:24:00.845Z",
+            "history": {
+                "auditRecords": [],
+                "self": "http://jksj.quarkioe.com/audit/auditRecords"
+            },
+            "id": "71508",
+            "self": "http://jksj.quarkioe.com/alarm/alarms/71508",
+            "severity": "MINOR",
+            "source": {
+                "id": "10602",
+                "name": "18004508",
+                "self": "http://jksj.quarkioe.com/inventory/managedObjects/10602"
+            },
+            "status": "CLEARED",
+            "text": "I am an alarm",
+            "type": "TestAlarm1"
+        },
+        {
+            "count": 5,
+            "creationTime": "2018-08-02T09:27:15.514+08:00",
+            "time": "2018-08-02T09:24:00.845Z",
+            "firstOccurrenceTime": "2018-08-02T09:24:00.845Z",
+            "history": {
+                "auditRecords": [],
+                "self": "http://jksj.quarkioe.com/audit/auditRecords"
+            },
+            "id": "71510",
+            "self": "http://jksj.quarkioe.com/alarm/alarms/71510",
+            "severity": "CRITICAL",
+            "source": {
+                "id": "10602",
+                "name": "18004508",
+                "self": "http://jksj.quarkioe.com/inventory/managedObjects/10602"
+            },
+            "status": "CLEARED",
+            "text": "I am an alarm",
+            "type": "TestAlarm1"
+        },
+        {
+            "count": 3,
+            "creationTime": "2018-08-02T09:28:26.292+08:00",
+            "time": "2018-08-02T09:24:00.845Z",
+            "firstOccurrenceTime": "2018-08-02T09:24:00.845Z",
+            "history": {
+                "auditRecords": [],
+                "self": "http://jksj.quarkioe.com/audit/auditRecords"
+            },
+            "id": "72398",
+            "self": "http://jksj.quarkioe.com/alarm/alarms/72398",
+            "severity": "MINOR",
+            "source": {
+                "id": "10602",
+                "name": "18004508",
+                "self": "http://jksj.quarkioe.com/inventory/managedObjects/10602"
+            },
+            "status": "CLEARED",
+            "text": "I am an alarm",
+            "type": "TestAlarm1"
+        },
+        {
+            "count": 1,
+            "creationTime": "2018-08-02T09:29:12.844+08:00",
+            "time": "2018-08-02T09:24:00.845Z",
+            "history": {
+                "auditRecords": [],
+                "self": "http://jksj.quarkioe.com/audit/auditRecords"
+            },
+            "id": "71515",
+            "self": "http://jksj.quarkioe.com/alarm/alarms/71515",
+            "severity": "WARNING",
+            "source": {
+                "id": "10602",
+                "name": "18004508",
+                "self": "http://jksj.quarkioe.com/inventory/managedObjects/10602"
+            },
+            "status": "CLEARED",
+            "text": "I am an alarm2",
+            "type": "TestAlarm2"
+        },
+        {
+            "count": 1,
+            "creationTime": "2018-08-02T09:29:45.165+08:00",
+            "time": "2018-08-02T09:24:00.845Z",
+            "history": {
+                "auditRecords": [],
+                "self": "http://jksj.quarkioe.com/audit/auditRecords"
+            },
+            "id": "72473",
+            "self": "http://jksj.quarkioe.com/alarm/alarms/72473",
+            "severity": "MAJOR",
+            "source": {
+                "id": "10602",
+                "name": "18004508",
+                "self": "http://jksj.quarkioe.com/inventory/managedObjects/10602"
+            },
+            "status": "CLEARED",
+            "text": "Broker disconnected from server",
+            "type": "Connection Error"
+        },
+        {
+            "count": 1,
+            "creationTime": "2018-08-02T09:32:58.218+08:00",
+            "time": "2018-08-02T09:32:58.218+08:00",
+            "history": {
+                "auditRecords": [],
+                "self": "http://jksj.quarkioe.com/audit/auditRecords"
+            },
+            "id": "72646",
+            "self": "http://jksj.quarkioe.com/alarm/alarms/72646",
+            "severity": "MAJOR",
+            "source": {
+                "id": "10602",
+                "name": "18004508",
+                "self": "http://jksj.quarkioe.com/inventory/managedObjects/10602"
+            },
+            "status": "CLEARED",
+            "text": "No data received from device within required interval.",
+            "type": "c8y_UnavailabilityAlarm"
+        },
+        {
+            "count": 1,
+            "creationTime": "2018-08-02T09:38:03.605+08:00",
+            "time": "2018-08-02T09:24:00.845Z",
+            "history": {
+                "auditRecords": [],
+                "self": "http://jksj.quarkioe.com/audit/auditRecords"
+            },
+            "id": "72919",
+            "self": "http://jksj.quarkioe.com/alarm/alarms/72919",
+            "severity": "CRITICAL",
+            "source": {
+                "id": "10602",
+                "name": "18004508",
+                "self": "http://jksj.quarkioe.com/inventory/managedObjects/10602"
+            },
+            "status": "CLEARED",
+            "text": "Possible virus in Device",
+            "type": "Potential Malware"
+        },
+        {
+            "count": 1,
+            "creationTime": "2018-08-02T09:38:39.692+08:00",
+            "time": "2018-08-02T09:24:00.845Z",
+            "history": {
+                "auditRecords": [],
+                "self": "http://jksj.quarkioe.com/audit/auditRecords"
+            },
+            "id": "71517",
+            "self": "http://jksj.quarkioe.com/alarm/alarms/71517",
+            "severity": "WARNING",
+            "source": {
+                "id": "10602",
+                "name": "18004508",
+                "self": "http://jksj.quarkioe.com/inventory/managedObjects/10602"
+            },
+            "status": "CLEARED",
+            "text": "Value overflow",
+            "type": "Max value"
+        },
+        {
+            "count": 1,
+            "creationTime": "2018-08-02T09:41:14.123+08:00",
+            "time": "2018-08-02T09:41:14.123+08:00",
+            "history": {
+                "auditRecords": [],
+                "self": "http://jksj.quarkioe.com/audit/auditRecords"
+            },
+            "id": "73096",
+            "self": "http://jksj.quarkioe.com/alarm/alarms/73096",
+            "severity": "MAJOR",
+            "source": {
+                "id": "10602",
+                "name": "18004508",
+                "self": "http://jksj.quarkioe.com/inventory/managedObjects/10602"
+            },
+            "status": "CLEARED",
+            "text": "No data received from device within required interval.",
+            "type": "c8y_UnavailabilityAlarm"
+        },
+        {
+            "count": 1,
+            "creationTime": "2018-08-02T10:09:52.390+08:00",
+            "time": "2018-08-02T09:24:00.845Z",
+            "history": {
+                "auditRecords": [],
+                "self": "http://jksj.quarkioe.com/audit/auditRecords"
+            },
+            "id": "71521",
+            "self": "http://jksj.quarkioe.com/alarm/alarms/71521",
+            "severity": "MAJOR",
+            "source": {
+                "id": "10602",
+                "name": "18004508",
+                "self": "http://jksj.quarkioe.com/inventory/managedObjects/10602"
+            },
+            "status": "CLEARED",
+            "text": "Broker disconnected from server",
+            "type": "Connection Error"
+        },
+        {
+            "count": 1,
+            "creationTime": "2018-08-02T10:13:21.818+08:00",
+            "time": "2018-08-02T10:13:21.818+08:00",
+            "history": {
+                "auditRecords": [],
+                "self": "http://jksj.quarkioe.com/audit/auditRecords"
+            },
+            "id": "71524",
+            "self": "http://jksj.quarkioe.com/alarm/alarms/71524",
+            "severity": "MAJOR",
+            "source": {
+                "id": "10602",
+                "name": "18004508",
+                "self": "http://jksj.quarkioe.com/inventory/managedObjects/10602"
+            },
+            "status": "CLEARED",
+            "text": "No data received from device within required interval.",
+            "type": "c8y_UnavailabilityAlarm"
+        },
+        {
+            "count": 1,
+            "creationTime": "2018-08-03T14:41:13.258+08:00",
+            "time": "2018-08-02T09:24:00.845Z",
+            "history": {
+                "auditRecords": [],
+                "self": "http://jksj.quarkioe.com/audit/auditRecords"
+            },
+            "id": "166694",
+            "self": "http://jksj.quarkioe.com/alarm/alarms/166694",
+            "severity": "CRITICAL",
+            "source": {
+                "id": "10602",
+                "name": "18004508",
+                "self": "http://jksj.quarkioe.com/inventory/managedObjects/10602"
+            },
+            "status": "CLEARED",
+            "text": "Possible virus in Device",
+            "type": "Potential Malware"
+        },
+        {
+            "count": 1,
+            "creationTime": "2018-08-03T14:44:30.676+08:00",
+            "time": "2018-08-03T14:44:30.675+08:00",
+            "history": {
+                "auditRecords": [],
+                "self": "http://jksj.quarkioe.com/audit/auditRecords"
+            },
+            "id": "166978",
+            "self": "http://jksj.quarkioe.com/alarm/alarms/166978",
+            "severity": "MAJOR",
+            "source": {
+                "id": "10602",
+                "name": "18004508",
+                "self": "http://jksj.quarkioe.com/inventory/managedObjects/10602"
+            },
+            "status": "CLEARED",
+            "text": "No data received from device within required interval.",
+            "type": "c8y_UnavailabilityAlarm"
+        },
+        {
+            "count": 1,
+            "creationTime": "2018-08-03T15:20:22.605+08:00",
+            "time": "2018-08-03T15:20:22.605+08:00",
+            "history": {
+                "auditRecords": [],
+                "self": "http://jksj.quarkioe.com/audit/auditRecords"
+            },
+            "id": "166709",
+            "self": "http://jksj.quarkioe.com/alarm/alarms/166709",
+            "severity": "MAJOR",
+            "source": {
+                "id": "10602",
+                "name": "18004508",
+                "self": "http://jksj.quarkioe.com/inventory/managedObjects/10602"
+            },
+            "status": "ACTIVE",
+            "text": "No data received from device within required interval.",
+            "type": "c8y_UnavailabilityAlarm"
+        }
+    ],
+    "statistics": {
+        "currentPage": 1,
+        "pageSize": 100,
+        "totalPages": 1
+    },
+    "self": "http://jksj.quarkioe.com/alarm/alarms?pageSize=100&currentPage=1"
+}
